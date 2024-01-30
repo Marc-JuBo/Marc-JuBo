@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marc-JuBo
 - 👀 I’m interested in STEAM, programming, videogames, crafting, carpentry, and other handmade activities.
-- 🌱 I've studied Maths and Computer Science at Universitat Autònoma de Barcelona.
+- 🌱 I've studied Maths at Universitat Autònoma de Barcelona, and I've specialized in Programming and Data Science.
 - 💞️ In my GitHub, there's a recap of some of my programming projects. If you want to know more about some of them, just ask!
 - 📫 How to reach me: Send me a message to my LinkedIn (https://www.linkedin.com/in/marc-julia/)
 
